@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OnlineMarket">
+    <output-path>$PROJECT_DIR$/out/artifacts/OnlineMarket</output-path>
+    <root id="archive" name="OnlineMarket.jar">
+      <element id="module-output" name="OnlineMarket" />
+    </root>
+  </artifact>
+</component>
